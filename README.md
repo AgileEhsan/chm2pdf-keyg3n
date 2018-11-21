@@ -5,4 +5,4 @@ You can download it from https://www.colorpilot.com/products.html
 ## Features
 
 * Written in x86 Assembly
-* No Need of MSVCRT
+* **No Need of MSVCRT**
